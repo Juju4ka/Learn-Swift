@@ -13,4 +13,5 @@ let views = (topLevelObjects as! Array<Any>).filter { $0 is NSView }
 PlaygroundPage.current.liveView = views[0] as! NSView
 
 SimpleValues.samples()
-ControlFlow.samples()
+ControlFlow.conditionals()
+ControlFlow.optionals()
