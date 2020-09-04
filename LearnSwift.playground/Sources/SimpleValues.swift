@@ -1,3 +1,8 @@
+//  SimpleValues.swift
+//
+//  Created by Julia Boichentsova on 04/05/2020.
+//  Copyright © 2020 Julia Boichentsova. All rights reserved.
+
 import Foundation
 
 public class SimpleValues {
